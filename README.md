@@ -1,2 +1,0 @@
-# housie-game
-Housie Game
